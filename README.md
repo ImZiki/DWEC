@@ -1,6 +1,7 @@
 # Proyecto 1 DWEC
 ## Arcade Alley
 <img src="src/images/logoArcAll.jpeg" alt="drawing" width="500"/>
+
 ### Idea de la aplicacion
 Una plataforma social para jugadores de videojuegos donde poder encontrar a gente con los mismos intereses, nivel de habilidad, horarios, preferencias, etc.
 
