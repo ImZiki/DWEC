@@ -1,1 +1,1 @@
-[Proyecto 1](imziki.github.io/proyectos-DWEC/proyecto1.html)
+[Proyecto 1](/proyecto1.md)
