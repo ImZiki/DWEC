@@ -1,1 +1,1 @@
-[Proyecto 1](/proyecto1.md)
+[Proyecto 1](proyectos-DWEC/proyecto1.html)
