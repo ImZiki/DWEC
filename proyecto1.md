@@ -343,7 +343,8 @@ Algunas consideraciones podrían ser las siguientes:
 - [Problemas y soluciones de compatibilidad](https://desarrolladoraweb.com/blog/como-solucionar-problemas-de-compatibilidad-css-en-diferentes-navegadores)
 - [Por qué es importante la compatibilidad al escoger tecnologias web](https://publica.com.mx/blog/que-es-la-compatibilidad-entre-navegadores)
 #### Integración
-[Polyfills](https://developer.mozilla.org/es/docs/Glossary/Polyfill)
+- [Polyfills](https://developer.mozilla.org/es/docs/Glossary/Polyfill)
+- [CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 #### Evaluacion de React.js
 - [React.js ventajas e inconvenientes](https://www.solbyte.com/blog/react-js-ventajas-e-inconvenientes/)
 - [Documentacion de React.js](https://es.react.dev/)
