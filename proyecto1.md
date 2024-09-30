@@ -325,9 +325,11 @@ Algunas consideraciones podrían ser las siguientes:
 - [API ISteamNews](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetNewsForApp_.28v0001.29)
 - [API ISteamUserStats](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetGlobalAchievementPercentagesForApp_.28v0001.29)
 - [API ISteamUser ](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerSummaries_.28v0001.29)
+  
 #### API de Epic Games mencionada en funcionalidades clave
 - [API Free Epic Games](https://rapidapi.com/kwik-api-kwik-api-default/api/free-epic-games)
 - [APIs generales de Epic Games](https://dev.epicgames.com/docs/web-api-ref)
+  
 #### Tecnologias y lenguajes de programacion web seleccionados
 - [HTML5](https://ebac.mx/blog/que-es-html5)
 - [CSS3](https://www.dongee.com/tutoriales/ventajas-y-desventajas-de-css3/)
@@ -337,14 +339,17 @@ Algunas consideraciones podrían ser las siguientes:
 - [Cliente-Servidor tradicional](https://www.ionos.es/digitalguide/servidores/know-how/modelo-cliente-servidor/)
 - [Cliente-Servidor multicapa](https://www.tecnologias-informacion.com/arquitectura-servidores.html)
 - [Peer-to-Peer](https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/p2p)
+
 #### Compatibilidad en navegadores y consideraciones
 - [Compatibilidad de HTML5 y CSS3](https://www.solucionex.com/blog/compatibilidades-de-html5-y-css3-en-los-navegadores)
 - [Compatibilidad de React.js](https://es.legacy.reactjs.org/docs/javascript-environment-requirements.html)
 - [Problemas y soluciones de compatibilidad](https://desarrolladoraweb.com/blog/como-solucionar-problemas-de-compatibilidad-css-en-diferentes-navegadores)
 - [Por qué es importante la compatibilidad al escoger tecnologias web](https://publica.com.mx/blog/que-es-la-compatibilidad-entre-navegadores)
+
 #### Integración
 - [Polyfills](https://developer.mozilla.org/es/docs/Glossary/Polyfill)
 - [CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+
 #### Evaluacion de React.js
 - [React.js ventajas e inconvenientes](https://www.solbyte.com/blog/react-js-ventajas-e-inconvenientes/)
 - [Documentacion de React.js](https://es.react.dev/)
