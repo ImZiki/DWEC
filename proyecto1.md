@@ -194,6 +194,7 @@ Back-end:
 ### Evaluación de los lenguajes de programación web seleccionados.
 
 #### HTML5
+
 - Ventajas:
 
   - Fácil de aprender: HTML5 tiene una sintaxis clara y sencilla.
@@ -205,6 +206,8 @@ Back-end:
   - Limitaciones en diseño: Aunque es potente, HTML5 tiene limitaciones en cuanto a diseño y funcionalidad avanzada.
   - Seguridad: Puede ser vulnerable a ciertos tipos de ataques si no se implementa correctamente.
 #### CSS3
+
+
   - Ventajas:
 
     - Separación de contenido y presentación: Permite separar la estructura del contenido de su presentación visual.
@@ -215,13 +218,17 @@ Back-end:
 
   - Compatibilidad con navegadores antiguos: Algunas características de CSS3 no son compatibles con navegadores más antiguos.
   - Complejidad: Puede volverse complejo y difícil de mantener en proyectos grandes4.
+
+    
 #### React.js
+
 - Ventajas:
 
   - Componentización: Facilita la creación de interfaces de usuario mediante componentes reutilizables5.
   - Rendimiento: Utiliza un DOM virtual que mejora el rendimiento de las aplicaciones5.
   - Comunidad y soporte: Tiene una gran comunidad y soporte, lo que facilita encontrar recursos y soluciones5.
   - SEO amigable: Permite la renderización del lado del servidor, mejorando el SEO5.
+ 
 - Desventajas:
 
   - Curva de aprendizaje: Puede tener una curva de aprendizaje pronunciada para principiantes5.
@@ -256,6 +263,7 @@ Back-end:
 
   - Transpiladores: Utilizar herramientas como Babel para transpilar el código de JavaScript moderno a una versión compatible con navegadores más antiguos.
   - Pruebas de rendimiento: Realizar pruebas de rendimiento en diferentes navegadores para identificar y solucionar problemas.
+ 
 ### Cómo Afecta la Compatibilidad la Elección de Tecnologías
 La compatibilidad de navegadores es un factor crucial a la hora de elegir tecnologías para el desarrollo web. 
 
@@ -308,11 +316,14 @@ Algunas consideraciones podrían ser las siguientes:
 ### Evaluacion de React.js como herramienta para programacion web seleccionada
 
 #### Funciones Principales
+
   - Componentes Reutilizables: React permite crear componentes que se pueden reutilizar en diferentes partes de la aplicación, lo que facilita el mantenimiento y la escalabilidad.
   - Virtual DOM: Utiliza un DOM virtual para mejorar el rendimiento. En lugar de actualizar el DOM real directamente, React realiza cambios en el DOM virtual y luego sincroniza estos cambios con el DOM real de manera eficiente.
   - JSX: Una extensión de la sintaxis de JavaScript que permite escribir HTML dentro de JavaScript. Esto hace que el código sea más legible y fácil de escribir.
   - Unidirectional Data Flow: React sigue un flujo de datos unidireccional, lo que significa que los datos fluyen en una sola dirección, facilitando la gestión del estado de la aplicación.
+
 #### Ventajas Distintivas
+
   - Rendimiento: Gracias al Virtual DOM, React puede actualizar y renderizar componentes de manera eficiente, lo que mejora el rendimiento de la aplicación.
   - Ecosistema y Comunidad: React tiene una gran comunidad de desarrolladores y un ecosistema robusto de herramientas y bibliotecas, como Redux para la gestión del estado y React Router para la navegación.
   - Flexibilidad: React es una biblioteca, no un framework completo, lo que permite integrarlo fácilmente con otras bibliotecas o frameworks según las necesidades del proyecto.
