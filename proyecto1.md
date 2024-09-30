@@ -205,6 +205,7 @@ Back-end:
 
   - Limitaciones en diseño: Aunque es potente, HTML5 tiene limitaciones en cuanto a diseño y funcionalidad avanzada.
   - Seguridad: Puede ser vulnerable a ciertos tipos de ataques si no se implementa correctamente.
+    
 #### CSS3
 
 
