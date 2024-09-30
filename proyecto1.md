@@ -236,6 +236,8 @@ Back-end:
   - Dependencia de JavaScript: Requiere un buen conocimiento de JavaScript para aprovechar al máximo sus capacidades.
 
 ### Compatibilidad en Navegadores
+
+
 #### HTML5
 - Problemas:
 
@@ -245,6 +247,8 @@ Back-end:
 
   - Polyfills: Utilizar polyfills para añadir soporte a navegadores que no soportan ciertas características.
   - Pruebas exhaustivas: Realizar pruebas en múltiples navegadores para asegurar una experiencia consistente.
+ 
+    
 #### CSS3
 - Problemas:
 
@@ -254,6 +258,8 @@ Back-end:
 
   - Prefijos de vendedor: Utilizar prefijos de vendedor como -webkit-, -moz-, -ms-, y -o- para asegurar compatibilidad.
   - Reset CSS: Utilizar un archivo de reset CSS para normalizar el estilo en todos los navegadores.
+
+
 #### React.js
 - Problemas:
 
